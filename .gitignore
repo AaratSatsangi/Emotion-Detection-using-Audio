@@ -1,2 +1,4 @@
-/!*.csv
-/!*.ipynb
+*
+!*.csv
+!*.ipynb
+Emotion Detection Using Audio - AA /*
